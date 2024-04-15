@@ -1,11 +1,11 @@
 
 package com.Edu200741.bazar.service;
 
-import com.Edu200741.bazar.controller.dto.VentaMasAltaDTO;
+import com.Edu200741.bazar.dto.VentaMasAltaDTO;
 //import com.Edu200741.bazar.model.Cliente;
 import com.Edu200741.bazar.model.Producto;
 import com.Edu200741.bazar.model.Venta;
-import com.Edu200741.bazar.model.repository.IVentaRepository;
+import com.Edu200741.bazar.repository.IVentaRepository;
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;

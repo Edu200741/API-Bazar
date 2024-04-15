@@ -2,7 +2,7 @@
 package com.Edu200741.bazar.service;
 
 import com.Edu200741.bazar.model.Cliente;
-import com.Edu200741.bazar.model.repository.IClienteRepository;
+import com.Edu200741.bazar.repository.IClienteRepository;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

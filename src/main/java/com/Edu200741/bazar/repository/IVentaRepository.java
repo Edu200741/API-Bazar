@@ -1,5 +1,5 @@
 
-package com.Edu200741.bazar.model.repository;
+package com.Edu200741.bazar.repository;
 
 import com.Edu200741.bazar.model.Venta;
 import org.springframework.data.jpa.repository.JpaRepository;

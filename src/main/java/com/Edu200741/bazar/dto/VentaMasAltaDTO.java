@@ -1,5 +1,5 @@
 
-package com.Edu200741.bazar.controller.dto;
+package com.Edu200741.bazar.dto;
 
 import com.Edu200741.bazar.model.Producto;
 import java.util.List;

@@ -1,7 +1,7 @@
 
 package com.Edu200741.bazar.controller;
 
-import com.Edu200741.bazar.controller.dto.VentaMasAltaDTO;
+import com.Edu200741.bazar.dto.VentaMasAltaDTO;
 import com.Edu200741.bazar.model.Producto;
 import com.Edu200741.bazar.model.Venta;
 import com.Edu200741.bazar.service.IVentaService;

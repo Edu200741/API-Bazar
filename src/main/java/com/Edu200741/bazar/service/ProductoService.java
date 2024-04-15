@@ -2,7 +2,7 @@
 package com.Edu200741.bazar.service;
 
 import com.Edu200741.bazar.model.Producto;
-import com.Edu200741.bazar.model.repository.IProductoRepository;
+import com.Edu200741.bazar.repository.IProductoRepository;
 import java.util.ArrayList;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
